@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\YouTubeLibrary",
-    "\\YouTubeWeb"
+    "\\YouTubeWeb",
+    "\\YouTubeWeb\\YouTubeWeb"
   ],
+  "SelectedNode": "\\YouTubeWeb\\YouTubeWeb.sln",
   "PreviewInSolutionExplorer": false
 }

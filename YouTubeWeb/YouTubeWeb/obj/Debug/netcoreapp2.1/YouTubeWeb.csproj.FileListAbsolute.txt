@@ -31,3 +31,5 @@ C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\obj\D
 C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\obj\Debug\netcoreapp2.1\YouTubeWeb.dll
 C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\obj\Debug\netcoreapp2.1\YouTubeWeb.pdb
 C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\obj\Debug\netcoreapp2.1\YouTubeWeb.csproj.CopyComplete
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeWeb\YouTubeWeb\bin\Debug\netcoreapp2.1\YouTubeLibrary.pdb

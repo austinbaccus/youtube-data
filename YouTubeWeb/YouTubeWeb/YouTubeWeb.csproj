@@ -12,4 +12,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.7.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="YouTubeLibrary">
+      <HintPath>..\..\YouTubeLibrary\YouTubeLibrary\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,9 @@
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\bin\Debug\netcoreapp2.1\YouTubeLibrary.deps.json
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\bin\Debug\netcoreapp2.1\YouTubeLibrary.pdb
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\obj\Debug\netcoreapp2.1\YouTubeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\obj\Debug\netcoreapp2.1\YouTubeLibrary.AssemblyInfoInputs.cache
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\obj\Debug\netcoreapp2.1\YouTubeLibrary.AssemblyInfo.cs
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\obj\Debug\netcoreapp2.1\YouTubeLibrary.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\obj\Debug\netcoreapp2.1\YouTubeLibrary.pdb
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeLibrary\YouTubeLibrary\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll.config

@@ -4,4 +4,18 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Google.Apis" Version="1.40.0" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.40.0.1593" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions" Version="3.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\..\.nuget\packages\newtonsoft.json\12.0.1\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

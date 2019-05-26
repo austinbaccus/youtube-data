@@ -1,0 +1,15 @@
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeConsole.deps.json
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeConsole.runtimeconfig.json
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeConsole.runtimeconfig.dev.json
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeConsole.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeConsole.pdb
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeLibrary.pdb
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.csprojAssemblyReference.cache
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.csproj.CoreCompileInputs.cache
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.AssemblyInfoInputs.cache
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.AssemblyInfo.cs
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.csproj.CopyComplete
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.dll
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\obj\Debug\netcoreapp2.1\YouTubeConsole.pdb
+C:\Users\gunra\source\repos\austinbaccus\YouTubeData\YouTubeConsole\YouTubeConsole\bin\Debug\netcoreapp2.1\YouTubeLibrary.dll.config
