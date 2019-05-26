@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\YouTubeConsole",
+    "\\YouTubeConsole\\YouTubeConsole",
+    "\\YouTubeLibrary",
+    "\\YouTubeLibrary\\YouTubeLibrary",
     "\\YouTubeWeb",
     "\\YouTubeWeb\\YouTubeWeb"
   ],
-  "SelectedNode": "\\YouTubeWeb\\YouTubeWeb.sln",
+  "SelectedNode": "\\YouTubeLibrary\\YouTubeLibrary\\local.settings.json",
   "PreviewInSolutionExplorer": false
 }
